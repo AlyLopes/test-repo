@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/LopesAlysson/test-repo/issues"
   },
-  "homepage": "https://github.com/LopesAlysson/test-repo#readme"
+  "homepage": "https://github.com/LopesAlysson/test-repo#readme",
+  "dependencies": {
+    "conventional-changelog-cli": "^2.2.2"
+  }
 }
